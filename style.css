@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+
+#styledImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ul{
+    text-align: center;
+}
