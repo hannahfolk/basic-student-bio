@@ -1,5 +1,23 @@
+html{
+    border-left: solid aqua;
+    border-right: solid aqua;
+}
+
+header {
+    background-color: black;
+    height: 75px;
+}
+
+body {
+    margin: 0;
+}
+
 h1{
+    margin-top: 0;
     text-align: center;
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: white;
 }
 
 h2{
@@ -16,6 +34,11 @@ h2{
     margin-right: auto;
 }
 
-.ul{
+.list{
     text-align: center;
+    list-style: inside;
+}
+
+.blueBorder {
+    border: solid blue;
 }
